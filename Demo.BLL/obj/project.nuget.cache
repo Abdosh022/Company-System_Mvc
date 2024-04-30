@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EknzoTXOo1+wUu84Juys5D5zXtfiG/IR0xeOoKBQXKZ4KFuoXvYvK95yGEBIoUazMDCMIr3m5ZtujdmKgy+iuQ==",
+  "dgSpecHash": "sf9XwMNEqjUzra9O1ZXALb2SUYh9lU6UH85bBkAWNiJ2CXdpMg8A8dkxdPhwNHdHRMREVLkuSvFHaU45t3p+5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\Demo.BLL.csproj",
+  "projectFilePath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\Demo.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdel\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\abdel\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",

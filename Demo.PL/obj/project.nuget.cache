@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6SKU/5axRXQCMOZFTqYoIJGbcZJYB2DiEotCsLZL4a+TfDXJ32oupvJZ1iNRFr2akMqTeIRE3gHZCSourYtQkw==",
+  "dgSpecHash": "IuB497vSAD33JQ69GcnfVRit5f0XM4Jey9t3jCgzR0UsR70SQoNNjz1N87bsc/6Lf2ndCbGRI3KiRxQqzef+pQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.PL\\Demo.PL.csproj",
+  "projectFilePath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.PL\\Demo.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdel\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\abdel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

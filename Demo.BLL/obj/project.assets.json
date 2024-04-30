@@ -2352,11 +2352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\Demo.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\Demo.BLL.csproj",
       "projectName": "Demo.BLL",
-      "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\Demo.BLL.csproj",
+      "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\Demo.BLL.csproj",
       "packagesPath": "C:\\Users\\abdel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\obj\\",
+      "outputPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2373,8 +2373,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.DAL\\Demo.DAL.csproj": {
-              "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.DAL\\Demo.DAL.csproj"
+            "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.DAL\\Demo.DAL.csproj": {
+              "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.DAL\\Demo.DAL.csproj"
             }
           }
         }

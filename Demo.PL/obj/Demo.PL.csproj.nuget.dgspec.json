@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.PL\\Demo.PL.csproj": {}
+    "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.PL\\Demo.PL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\Demo.BLL.csproj": {
+    "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\Demo.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\Demo.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\Demo.BLL.csproj",
         "projectName": "Demo.BLL",
-        "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\Demo.BLL.csproj",
+        "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\Demo.BLL.csproj",
         "packagesPath": "C:\\Users\\abdel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\obj\\",
+        "outputPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.DAL\\Demo.DAL.csproj": {
-                "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.DAL\\Demo.DAL.csproj"
+              "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.DAL\\Demo.DAL.csproj": {
+                "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.DAL\\Demo.DAL.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.DAL\\Demo.DAL.csproj": {
+    "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.DAL\\Demo.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.DAL\\Demo.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.DAL\\Demo.DAL.csproj",
         "projectName": "Demo.DAL",
-        "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.DAL\\Demo.DAL.csproj",
+        "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.DAL\\Demo.DAL.csproj",
         "packagesPath": "C:\\Users\\abdel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.DAL\\obj\\",
+        "outputPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.PL\\Demo.PL.csproj": {
+    "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.PL\\Demo.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.PL\\Demo.PL.csproj",
+        "projectUniqueName": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.PL\\Demo.PL.csproj",
         "projectName": "Demo.PL",
-        "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.PL\\Demo.PL.csproj",
+        "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.PL\\Demo.PL.csproj",
         "packagesPath": "C:\\Users\\abdel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.PL\\obj\\",
+        "outputPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.PL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -157,8 +157,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\Demo.BLL.csproj": {
-                "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\MVC_Project\\Demo.BLL\\Demo.BLL.csproj"
+              "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\Demo.BLL.csproj": {
+                "projectPath": "C:\\Users\\abdel\\source\\repos\\MVC\\Company-System_Mvc\\Demo.BLL\\Demo.BLL.csproj"
               }
             }
           }
