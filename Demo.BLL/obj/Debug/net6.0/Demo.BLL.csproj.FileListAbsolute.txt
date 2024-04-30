@@ -1,0 +1,90 @@
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+D:\Route\Cycle 39\07 ASP.NET Core MVC\Session 06\Demos\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+D:\Career\Work\ROUTE\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+D:\Career\Work\ROUTE\Cycles\Cycle 39\Workshops\7.MVC Project Inhancment\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+F:\.Net C40\Mentor\New folder (2)\9.MVC Project Inhancment\Demo\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+C:\Users\abdel\source\repos\MVC\G01 Demo Solution\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+C:\Users\abdel\source\repos\MVC\MVC_Project\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
